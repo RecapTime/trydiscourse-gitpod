@@ -3,6 +3,7 @@ shared/*
 *~
 \#*\#
 containers/*
+!containers/app.example.yml
 cids/*
 bin/*
 image/.build.out
